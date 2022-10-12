@@ -1,4 +1,4 @@
-# Viregame-Info-API (Login/Axios/Fetch practice)
+# Viewgame-Info-API (Login/Axios/Fetch practice)
 
 ![image](https://i.imgur.com/lgiqzI5.png)
 
