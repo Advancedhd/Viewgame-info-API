@@ -24,7 +24,7 @@ function ProjectCards() {
                 </Card.Text>
                 <Button
                   variant="primary"
-                  href="https://github.com/Noroff-FEU-Assignments/js-frameworks-course-assignment-Advancedhd"
+                  href="https://github.com/Advancedhd/Viewgame-info-API/"
                   target="_blank"
                 >
                   Github
