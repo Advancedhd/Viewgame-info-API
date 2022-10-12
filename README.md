@@ -1,0 +1,1 @@
+# Viewgame-info-API
