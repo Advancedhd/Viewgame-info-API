@@ -1,0 +1,19 @@
+@use "~bootstrap/scss/bootstrap";
+
+//Global
+@import "./partials/global/navbar";
+@import "./partials/global/footer";
+@import "./partials/global/background";
+
+//Home
+
+//Home
+@import "./partials/Home/cards.scss";
+
+
+
+html{
+    max-width: 100% !important;
+    background: #fffef6;
+    height: 100% !important;
+}

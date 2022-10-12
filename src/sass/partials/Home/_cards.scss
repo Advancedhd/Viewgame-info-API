@@ -1,0 +1,93 @@
+.btn {
+  background-color: #0d6efd;
+  border: none;
+  color: white;
+
+}
+
+
+.projects__container {
+  background-color: #464343;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.projects__title{
+ text-align: center;
+ padding-top: 30px;
+}
+
+
+.site__button{
+  margin-left: 120px;
+}
+
+.card-body .btn {
+  width: 37.5%;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  position: absolute;
+  bottom: 0;
+}
+
+
+
+
+.btn-primary:hover {
+  color: Gold;
+}
+
+.card {
+  width: 400px;
+  border-radius: 10px;
+  border: none;
+  font-family: "lato";
+  margin-top: 10% !important;
+  margin-bottom: 10% !important;
+  margin-left: 5.5%;
+  margin: 0 auto; 
+  float: none;
+}
+
+.card img {
+  border-radius: 10px 10px 0px 0px;
+}
+
+.card-title{
+  font-weight: bold;
+}
+
+.card-body {
+  padding: 30px;
+}
+
+.card-body h5,
+.card-text {
+  padding-top: 7px;
+}
+
+.card__container {
+  max-width: 90%;
+  padding: 0px;
+  margin: auto;
+}
+
+@media screen and (max-width: 992px) {
+  .row__two_products {
+    display: none;
+  }
+  .card {
+    margin-left: 20px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .card {
+    margin-top: 15%;
+    margin-left: 18.5% !important;
+  }
+}
+
