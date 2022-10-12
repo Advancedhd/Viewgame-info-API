@@ -1,4 +1,4 @@
-# JS Frameworks CA (Login/Axios/Fetch practice)
+# Viregame-Info-API (Login/Axios/Fetch practice)
 
 ![image](https://i.imgur.com/lgiqzI5.png)
 
